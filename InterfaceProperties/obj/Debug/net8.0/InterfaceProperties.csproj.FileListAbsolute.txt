@@ -1,0 +1,14 @@
+C:\Users\barca\OneDrive\Desktop\Week 1\InterfaceProperties\bin\Debug\net8.0\InterfaceProperties.exe
+C:\Users\barca\OneDrive\Desktop\Week 1\InterfaceProperties\bin\Debug\net8.0\InterfaceProperties.deps.json
+C:\Users\barca\OneDrive\Desktop\Week 1\InterfaceProperties\bin\Debug\net8.0\InterfaceProperties.runtimeconfig.json
+C:\Users\barca\OneDrive\Desktop\Week 1\InterfaceProperties\bin\Debug\net8.0\InterfaceProperties.dll
+C:\Users\barca\OneDrive\Desktop\Week 1\InterfaceProperties\bin\Debug\net8.0\InterfaceProperties.pdb
+C:\Users\barca\OneDrive\Desktop\Week 1\InterfaceProperties\obj\Debug\net8.0\InterfaceProperties.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\barca\OneDrive\Desktop\Week 1\InterfaceProperties\obj\Debug\net8.0\InterfaceProperties.AssemblyInfoInputs.cache
+C:\Users\barca\OneDrive\Desktop\Week 1\InterfaceProperties\obj\Debug\net8.0\InterfaceProperties.AssemblyInfo.cs
+C:\Users\barca\OneDrive\Desktop\Week 1\InterfaceProperties\obj\Debug\net8.0\InterfaceProperties.csproj.CoreCompileInputs.cache
+C:\Users\barca\OneDrive\Desktop\Week 1\InterfaceProperties\obj\Debug\net8.0\InterfaceProperties.dll
+C:\Users\barca\OneDrive\Desktop\Week 1\InterfaceProperties\obj\Debug\net8.0\refint\InterfaceProperties.dll
+C:\Users\barca\OneDrive\Desktop\Week 1\InterfaceProperties\obj\Debug\net8.0\InterfaceProperties.pdb
+C:\Users\barca\OneDrive\Desktop\Week 1\InterfaceProperties\obj\Debug\net8.0\InterfaceProperties.genruntimeconfig.cache
+C:\Users\barca\OneDrive\Desktop\Week 1\InterfaceProperties\obj\Debug\net8.0\ref\InterfaceProperties.dll

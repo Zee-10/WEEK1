@@ -1,0 +1,14 @@
+C:\Users\barca\OneDrive\Desktop\Week 1\1D2DArray\bin\Debug\net8.0\1D2DArray.exe
+C:\Users\barca\OneDrive\Desktop\Week 1\1D2DArray\bin\Debug\net8.0\1D2DArray.deps.json
+C:\Users\barca\OneDrive\Desktop\Week 1\1D2DArray\bin\Debug\net8.0\1D2DArray.runtimeconfig.json
+C:\Users\barca\OneDrive\Desktop\Week 1\1D2DArray\bin\Debug\net8.0\1D2DArray.dll
+C:\Users\barca\OneDrive\Desktop\Week 1\1D2DArray\bin\Debug\net8.0\1D2DArray.pdb
+C:\Users\barca\OneDrive\Desktop\Week 1\1D2DArray\obj\Debug\net8.0\1D2DArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\barca\OneDrive\Desktop\Week 1\1D2DArray\obj\Debug\net8.0\1D2DArray.AssemblyInfoInputs.cache
+C:\Users\barca\OneDrive\Desktop\Week 1\1D2DArray\obj\Debug\net8.0\1D2DArray.AssemblyInfo.cs
+C:\Users\barca\OneDrive\Desktop\Week 1\1D2DArray\obj\Debug\net8.0\1D2DArray.csproj.CoreCompileInputs.cache
+C:\Users\barca\OneDrive\Desktop\Week 1\1D2DArray\obj\Debug\net8.0\1D2DArray.dll
+C:\Users\barca\OneDrive\Desktop\Week 1\1D2DArray\obj\Debug\net8.0\refint\1D2DArray.dll
+C:\Users\barca\OneDrive\Desktop\Week 1\1D2DArray\obj\Debug\net8.0\1D2DArray.pdb
+C:\Users\barca\OneDrive\Desktop\Week 1\1D2DArray\obj\Debug\net8.0\1D2DArray.genruntimeconfig.cache
+C:\Users\barca\OneDrive\Desktop\Week 1\1D2DArray\obj\Debug\net8.0\ref\1D2DArray.dll

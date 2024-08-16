@@ -1,0 +1,14 @@
+C:\Users\barca\OneDrive\Desktop\Week 1\IList\bin\Debug\net8.0\IList.exe
+C:\Users\barca\OneDrive\Desktop\Week 1\IList\bin\Debug\net8.0\IList.deps.json
+C:\Users\barca\OneDrive\Desktop\Week 1\IList\bin\Debug\net8.0\IList.runtimeconfig.json
+C:\Users\barca\OneDrive\Desktop\Week 1\IList\bin\Debug\net8.0\IList.dll
+C:\Users\barca\OneDrive\Desktop\Week 1\IList\bin\Debug\net8.0\IList.pdb
+C:\Users\barca\OneDrive\Desktop\Week 1\IList\obj\Debug\net8.0\IList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\barca\OneDrive\Desktop\Week 1\IList\obj\Debug\net8.0\IList.AssemblyInfoInputs.cache
+C:\Users\barca\OneDrive\Desktop\Week 1\IList\obj\Debug\net8.0\IList.AssemblyInfo.cs
+C:\Users\barca\OneDrive\Desktop\Week 1\IList\obj\Debug\net8.0\IList.csproj.CoreCompileInputs.cache
+C:\Users\barca\OneDrive\Desktop\Week 1\IList\obj\Debug\net8.0\IList.dll
+C:\Users\barca\OneDrive\Desktop\Week 1\IList\obj\Debug\net8.0\refint\IList.dll
+C:\Users\barca\OneDrive\Desktop\Week 1\IList\obj\Debug\net8.0\IList.pdb
+C:\Users\barca\OneDrive\Desktop\Week 1\IList\obj\Debug\net8.0\IList.genruntimeconfig.cache
+C:\Users\barca\OneDrive\Desktop\Week 1\IList\obj\Debug\net8.0\ref\IList.dll
